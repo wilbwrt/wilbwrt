@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @wilbwrt
-- ➗ I'm currently a math undergrad at NTU Singapore
+- 👋 Hey! I’m @wilbwrt
+- ➗ I'm currently a Mathematical Sciences undergrad at NTU Singapore (with second major in Data Analytics)
 - 👀 I’m interested in learning more on data science, analysis, and software
 - 🌱 I’m currently learning Python
 - 💞️ I’m currently not open for collaborations (studying first is important)
-- 📫 How to reach me: WTHAMRIN001@e.ntu.edu.sg
+- 📫 Reach me through WTHAMRIN001(at)e.ntu.edu.sg or connect via LinkedIn
 
 <!---
 wilbwrt/wilbwrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
